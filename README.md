@@ -3,7 +3,7 @@
 📊 **Power BI** | 📈 **Excel** | 💾 **SQL**
 
 ## Project Overview
-This project aims to analyze retail sales data to gain insights into top-selling products, regional performance, and monthly salestrends. Usi ng Excel, SQL, and Power BI, I explored the data to produce a clear, interactive Power BI dashboard showcasing key findings.
+This project aims to analyze retail sales data to gain insights into top-selling products, regional performance, and monthly salestrends. Using Excel, SQL, and Power BI, I explored the data to produce a clear, interactive Power BI dashboard showcasing key findings.
 
 ## Objectives
 1. **Excel**: Perform initial data exploration with pivot tables and reports.
